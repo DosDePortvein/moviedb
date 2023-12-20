@@ -1,0 +1,15 @@
+[project]
+name = "moviedb"
+version = "0.0.1"
+descrption = "Приложение для поиска информации о фильмах и сериалах"
+readme = "README.md"
+requires-python = ">=3.0"
+license = {file = "LICENSE"}
+authors = [
+  "Sergey Smirnykh <me@siborgium.xyz>"
+  # to be added
+]
+repository = "https://github.com/Siborgium/moviedb"
+dependencies = [
+  "unittest" # not yet used
+]
